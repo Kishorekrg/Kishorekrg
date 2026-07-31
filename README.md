@@ -1,17 +1,17 @@
 <div align="center">
 
-  <!-- Header Banner / Title -->
+  <!-- Header / Title -->
   <h1 align="center">
-    <font color="#9847B4">👋 Hi, I'm Kishore Ram G</font>
+    <font color="#9847B4">Kishore Ram G</font>
   </h1>
   <p align="center">
-    <b>Robotics Engineer | ROS 2 Software Developer | Autonomous Systems</b>
+    <b>Robotics Engineer | ROS 2 Software Developer | Autonomous Systems Specialist</b>
   </p>
 
-  <!-- Social, Portfolio & Resume Badges (#9847B4, #DDC2F2, #F7EBF9) -->
+  <!-- Clean Professional Navigation Badges -->
   <p align="center">
-    <a href="https://kishorekrg.github.io/krg/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-9847B4?style=for-the-badge&logoColor=F7EBF9" alt="Portfolio" /></a>
-    <a href="https://kishorekrg.github.io/krg/resume.pdf"><img src="https://img.shields.io/badge/📄_View_Resume-DDC2F2?style=for-the-badge&logoColor=0D0814" alt="Resume" /></a>
+    <a href="https://kishorekrg.github.io/krg/"><img src="https://img.shields.io/badge/Live_Portfolio-9847B4?style=for-the-badge&logoColor=F7EBF9" alt="Portfolio" /></a>
+    <a href="https://kishorekrg.github.io/krg/resume.pdf"><img src="https://img.shields.io/badge/Curriculum_Vitae-DDC2F2?style=for-the-badge&logoColor=0D0814" alt="Resume" /></a>
     <a href="https://linkedin.com/in/kishore-ram-g-4534082b8"><img src="https://img.shields.io/badge/LinkedIn-9847B4?style=for-the-badge&logo=linkedin&logoColor=F7EBF9" alt="LinkedIn" /></a>
     <a href="mailto:kishore26ram@gmail.com"><img src="https://img.shields.io/badge/Email-F7EBF9?style=for-the-badge&logo=gmail&logoColor=9847B4" alt="Email" /></a>
   </p>
@@ -20,19 +20,18 @@
 
 ---
 
-### 🔮 <font color="#9847B4">About Me</font>
+### <font color="#9847B4">Executive Summary</font>
 
-I am a final-year **Robotics and Automation Engineering** student at Anna University, specialized in building intelligent autonomous robotic systems. My expertise spans **ROS 2 Jazzy**, **Gazebo simulation**, **Nav2 path planning**, and **computer vision for autonomous mobile robots (AMRs)**.
+Final-year **Robotics and Automation Engineering** student at Anna University specializing in autonomous mobile robotics, ROS 2 software architecture, computer vision perception pipelines, and simulation environments. Experienced in developing full-stack navigation packages, multi-robot communication protocols, and obstacle avoidance algorithms for defense and industrial automation applications.
 
-- 🔭 **Currently Building**: Autonomous mobile navigation stacks, multi-robot systems, and ROS 2 Jazzy packages.
-- 🎯 **Domain Focus**: Autonomous Mobile Robots (AMRs), SLAM, Path Planning, Computer Vision, Defence Robotics.
-- ⚡ **Fun Fact**: Active competitor in competitive robotics (Robo War, Robo Soccer, and Robo Sumo)!
+- **Primary Focus**: Autonomous Mobile Robots (AMRs), SLAM, Path Planning, Perception, Multi-Robot Systems.
+- **Core Competencies**: ROS 2 Jazzy, Nav2 Stack, Gazebo Harmonic, RViz2, MediaPipe, OpenCV, C++, Python.
 
 ---
 
-### 🛠️ <font color="#9847B4">Tech Stack & Engineering Skills</font>
+### <font color="#9847B4">Technical Skills & Tooling</font>
 
-#### **🤖 Robotics & Autonomous Systems**
+#### **Robotics & Autonomous Navigation**
 ![ROS 2](https://img.shields.io/badge/ROS_2_Jazzy-9847B4?style=for-the-badge&logo=ros&logoColor=F7EBF9)
 ![Nav2 Stack](https://img.shields.io/badge/Nav2_Stack-DDC2F2?style=for-the-badge&logoColor=0D0814)
 ![SLAM Toolbox](https://img.shields.io/badge/SLAM_Toolbox-9847B4?style=for-the-badge&logoColor=F7EBF9)
@@ -40,14 +39,14 @@ I am a final-year **Robotics and Automation Engineering** student at Anna Univer
 ![Behavior Trees](https://img.shields.io/badge/Behavior_Trees-9847B4?style=for-the-badge&logoColor=F7EBF9)
 ![URDF / Xacro](https://img.shields.io/badge/URDF_%2F_Xacro-DDC2F2?style=for-the-badge&logoColor=0D0814)
 
-#### **👁️ Simulation & Computer Vision**
+#### **Simulation & Perception**
 ![Gazebo Harmonic](https://img.shields.io/badge/Gazebo_Harmonic-9847B4?style=for-the-badge&logoColor=F7EBF9)
 ![RViz2](https://img.shields.io/badge/RViz2-DDC2F2?style=for-the-badge&logoColor=0D0814)
 ![OpenCV](https://img.shields.io/badge/OpenCV-9847B4?style=for-the-badge&logo=opencv&logoColor=F7EBF9)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-DDC2F2?style=for-the-badge&logoColor=0D0814)
-![ArUco Tracking](https://img.shields.io/badge/ArUco_Tracking-9847B4?style=for-the-badge&logoColor=F7EBF9)
+![ArUco Detection](https://img.shields.io/badge/ArUco_Tracking-9847B4?style=for-the-badge&logoColor=F7EBF9)
 
-#### **💻 Programming & Environment**
+#### **Programming & Engineering Environments**
 ![Python](https://img.shields.io/badge/Python-9847B4?style=for-the-badge&logo=python&logoColor=F7EBF9)
 ![C++](https://img.shields.io/badge/C++-DDC2F2?style=for-the-badge&logo=cplusplus&logoColor=0D0814)
 ![Ubuntu Linux](https://img.shields.io/badge/Ubuntu_Linux-9847B4?style=for-the-badge&logo=ubuntu&logoColor=F7EBF9)
@@ -56,54 +55,54 @@ I am a final-year **Robotics and Automation Engineering** student at Anna Univer
 
 ---
 
-### 🚀 <font color="#9847B4">Featured Robotics Projects</font>
+### <font color="#9847B4">Featured Engineering Repositories</font>
 
 <table>
   <thead>
     <tr>
-      <th>Project</th>
-      <th>Key Features & Architecture</th>
-      <th>Tech Stack</th>
-      <th>Repository</th>
+      <th>Project Name</th>
+      <th>Technical Architecture & Overview</th>
+      <th>Technologies</th>
+      <th>Repository Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>🧭 Autonomous SLAM & Navigation</b></td>
-      <td>Full autonomous mobile robot navigation stack featuring SLAM Toolbox mapping, AMCL localization, and Nav2 behavior trees in Gazebo.</td>
+      <td><b>Autonomous SLAM & Navigation</b></td>
+      <td>Full-stack autonomous mobile robot navigation stack utilizing SLAM Toolbox for mapping, AMCL for localization, and Nav2 costmap behavior trees in Gazebo.</td>
       <td><code>ROS 2 Jazzy</code> <code>Nav2</code> <code>SLAM Toolbox</code> <code>Gazebo</code></td>
-      <td><a href="https://github.com/Kishorekrg/Autonomous-Mobile-Robot-SLAM-Navigation-"><img src="https://img.shields.io/badge/View-9847B4?style=flat-square&logo=github&logoColor=F7EBF9" alt="Repo"/></a></td>
+      <td><a href="https://github.com/Kishorekrg/Autonomous-Mobile-Robot-SLAM-Navigation-"><img src="https://img.shields.io/badge/Repository-9847B4?style=flat-square&logo=github&logoColor=F7EBF9" alt="Repo"/></a></td>
     </tr>
     <tr>
-      <td><b>🤖 Leader-Follower Bot</b></td>
-      <td>Multi-robot leader-follower system with LiDAR obstacle avoidance & ArUco visual marker tracking.</td>
+      <td><b>Leader-Follower Multi-Robot System</b></td>
+      <td>Multi-robot system featuring leader trajectory control and follower visual target tracking using ArUco markers and 2D LiDAR obstacle avoidance.</td>
       <td><code>ROS 2 Jazzy</code> <code>Gazebo</code> <code>OpenCV</code> <code>ArUco</code></td>
-      <td><a href="https://github.com/Kishorekrg/Leader-Follower-Bot-ArUco-Marker-"><img src="https://img.shields.io/badge/View-9847B4?style=flat-square&logo=github&logoColor=F7EBF9" alt="Repo"/></a></td>
+      <td><a href="https://github.com/Kishorekrg/Leader-Follower-Bot-ArUco-Marker-"><img src="https://img.shields.io/badge/Repository-9847B4?style=flat-square&logo=github&logoColor=F7EBF9" alt="Repo"/></a></td>
     </tr>
     <tr>
-      <td><b>✋ Gesture Control Bot</b></td>
-      <td>Vision-guided mobile robot controlled via real-time MediaPipe hand landmark tracking and ROS 2 velocity publishing.</td>
+      <td><b>Gesture-Controlled Mobile Robot</b></td>
+      <td>Vision-guided robot control architecture mapping real-time MediaPipe hand landmark detection to ROS 2 velocity commands.</td>
       <td><code>ROS 2 Jazzy</code> <code>MediaPipe</code> <code>OpenCV</code> <code>Python</code></td>
-      <td><a href="https://github.com/Kishorekrg/Gesture-Control-Bot-"><img src="https://img.shields.io/badge/View-9847B4?style=flat-square&logo=github&logoColor=F7EBF9" alt="Repo"/></a></td>
+      <td><a href="https://github.com/Kishorekrg/Gesture-Control-Bot-"><img src="https://img.shields.io/badge/Repository-9847B4?style=flat-square&logo=github&logoColor=F7EBF9" alt="Repo"/></a></td>
     </tr>
     <tr>
-      <td><b>🗺️ Autonomous Obstacle Avoidance Bot</b></td>
-      <td>Autonomous mobile robot fusing 2D LiDAR scanner raycasting & camera perception in Gazebo.</td>
+      <td><b>Autonomous Obstacle Avoidance Bot</b></td>
+      <td>Sensor fusion mobile robot processing 2D LiDAR raycasting data and camera streams for real-time reactive collision avoidance in simulation.</td>
       <td><code>ROS 2 Jazzy</code> <code>Nav2</code> <code>LiDAR</code> <code>RViz2</code></td>
-      <td><a href="https://github.com/Kishorekrg/Autonomous-Obstacle-Avoiding-Bot"><img src="https://img.shields.io/badge/View-9847B4?style=flat-square&logo=github&logoColor=F7EBF9" alt="Repo"/></a></td>
+      <td><a href="https://github.com/Kishorekrg/Autonomous-Obstacle-Avoiding-Bot"><img src="https://img.shields.io/badge/Repository-9847B4?style=flat-square&logo=github&logoColor=F7EBF9" alt="Repo"/></a></td>
     </tr>
     <tr>
-      <td><b>🏎️ Camera Line Follower</b></td>
-      <td>Lane detection and centroid displacement steering control loop for differential drive robot in URDF.</td>
+      <td><b>Camera-Based Line Follower</b></td>
+      <td>Closed-loop steering controller tracking lane centroids through real-time HSV color segmentation and vision processing nodes.</td>
       <td><code>ROS 2 Jazzy</code> <code>OpenCV</code> <code>URDF</code> <code>Gazebo</code></td>
-      <td><a href="https://github.com/Kishorekrg/Camera-Based-Line-Follower"><img src="https://img.shields.io/badge/View-9847B4?style=flat-square&logo=github&logoColor=F7EBF9" alt="Repo"/></a></td>
+      <td><a href="https://github.com/Kishorekrg/Camera-Based-Line-Follower"><img src="https://img.shields.io/badge/Repository-9847B4?style=flat-square&logo=github&logoColor=F7EBF9" alt="Repo"/></a></td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-### 📊 <font color="#9847B4">GitHub Activity & Insights</font>
+### <font color="#9847B4">GitHub Engineering Analytics</font>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kishorekrg&show_icons=true&title_color=9847B4&icon_color=9847B4&text_color=DDC2F2&bg_color=0F0814&border_color=9847B4&count_private=true" alt="Kishorekrg's GitHub Stats" width="48%" />
@@ -118,7 +117,6 @@ I am a final-year **Robotics and Automation Engineering** student at Anna Univer
 
 <div align="center">
   <p>
-    <b>🌐 Explore my interactive Portfolio: <a href="https://kishorekrg.github.io/krg/"><font color="#9847B4">kishorekrg.github.io/krg</font></a> | 📄 <a href="https://kishorekrg.github.io/krg/resume.pdf"><font color="#9847B4">View Resume (PDF)</font></a></b>
+    <b>Portfolio: <a href="https://kishorekrg.github.io/krg/"><font color="#9847B4">kishorekrg.github.io/krg</font></a> | Resume: <a href="https://kishorekrg.github.io/krg/resume.pdf"><font color="#9847B4">Curriculum Vitae (PDF)</font></a></b>
   </p>
-  <p><i>Building the future of autonomous robotics! 🤖⚡</i></p>
 </div>
